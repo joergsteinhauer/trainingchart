@@ -1,4 +1,4 @@
-# kieserchart
+# Training Chart
 
 ## Improvement ideas
 
