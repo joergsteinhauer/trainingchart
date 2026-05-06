@@ -13,7 +13,7 @@ Training Chart ist eine kleine Web-App, die Trainingsdaten aus einer CSV-Datei e
 
 1. Projektordner lokal öffnen.
 2. Die Datei `index.html` im Browser starten (Doppelklick reicht).
-3. Oben im Bereich **Datei auswählen** eine CSV-Datei laden (z. B. `training.csv` oder `joerg.csv`).
+3. Oben im Bereich **Datei auswählen** eine CSV-Datei laden (z. B. `training.csv`).
 4. Optional den Schalter **Geräte gruppieren** aktivieren, um die Reihenfolge im Chart umzuschalten.
 
 Die App ist außerdem öffentlich über GitHub Pages erreichbar:
